@@ -1,22 +1,25 @@
-# Master CT Assignment Template 
+# GitHub test assignment template
 
-Use this master template to create CT Assignment Templates.
+This is for students to test their GitHub/Gitpod setups
 
 ## Problem Description
-Problem description goes here. 
+Edit the third line to make answer be one more than x.
+Run your code with: `python my_code.py`
 
-* Steps to take go here. 
+When x = 6, do you get 7?
 
 ## Example
 ```
-Value to increment? 5
-10
+Value to increment? 6
+7
 ```
 
-## Suggested Approach
-1) Suggestions go here
+## Next steps
+1) Run your tests with: `pytest` (type in terminal)
+2) If it passes, stage your changes, commit (with a commit message) and push to GitHub.
+3) Be sure to check GitHub to be sure everything worked.
 
-## Hints
+## Questions
 * Use `input()` to prompt the user for a value. 
 
 Add code to [my_code.py](./my_code.py) to make it do the desired thing.
