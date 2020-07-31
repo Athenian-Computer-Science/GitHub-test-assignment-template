@@ -6,5 +6,5 @@ def inc(x):
 
 if __name__ == '__main__':
     # Test your code with this first
-    # Change the argument to try different values
+    # Change the argument (the number in parentheses) to try different values
     print(inc(6))
