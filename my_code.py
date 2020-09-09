@@ -1,6 +1,6 @@
 # Welcome to your first GitHub assignment!
 def inc(x):
-    answer =    #finish this to make answer be 1 more than x
+    answer =  #finish this to make answer be 1 more than x
     return answer          
 
 
